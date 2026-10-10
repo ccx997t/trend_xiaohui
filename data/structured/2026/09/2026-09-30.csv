@@ -1,0 +1,13 @@
+date,code,name,board_count,open_pct,close_pct,turnover_rate,amount,first_limit_time,last_limit_time,open_board_count,seal_amount,sector,sector_strength,market_role,notes
+2026-09-30,600825,新华传媒,7,NA,9.99,NA,1.45亿,NA,NA,NA,NA,NA,NA,NA,收盘价10.35；截图可确认
+2026-09-30,000678,襄阳轴承,4,NA,9.98,NA,10.7亿,NA,NA,NA,NA,NA,NA,NA,收盘价12.89；由9月29日三板晋级
+2026-09-30,600241,时代万恒,3,NA,9.95,NA,7466万,NA,NA,NA,NA,NA,NA,NA,收盘价9.72；由9月29日二板晋级
+2026-09-30,301190,善水科技,3,NA,20.01,NA,5.10亿,NA,NA,NA,NA,NA,NA,NA,收盘价35.93；由9月29日二板晋级
+2026-09-30,002242,九阳股份,3,NA,10.04,NA,4.37亿,NA,NA,NA,NA,NA,NA,NA,收盘价12.50；由9月29日二板晋级
+2026-09-30,000011,深物业A,3,NA,9.97,NA,9.71亿,NA,NA,NA,NA,NA,NA,NA,收盘价12.24；由9月29日二板晋级
+2026-09-30,605388,均瑶健康,2,NA,10.01,NA,8948万,NA,NA,NA,NA,NA,NA,NA,收盘价7.39；截图可确认
+2026-09-30,605303,园林股份,2,NA,10.02,NA,4941万,NA,NA,NA,NA,NA,NA,NA,收盘价28.66；截图可确认
+2026-09-30,603200,上海洗霸,2,NA,10.01,NA,10.6亿,NA,NA,NA,NA,NA,NA,NA,收盘价44.74；截图可确认
+2026-09-30,603188,亚邦股份,2,NA,10.00,NA,1.72亿,NA,NA,NA,NA,NA,NA,NA,收盘价5.40；截图可确认
+2026-09-30,002866,传艺科技,2,NA,10.03,NA,5.77亿,NA,NA,NA,NA,NA,NA,NA,收盘价16.90；截图可确认
+2026-09-30,002058,威尔泰,2,NA,10.02,NA,5114万,NA,NA,NA,NA,NA,NA,NA,收盘价20.20；名称由公开证券资料核实；题材联动见同日期sector_context文件

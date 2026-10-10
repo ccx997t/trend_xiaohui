@@ -1,0 +1,3 @@
+code,next_open_pct,is_third_board,intraday_performance,validation_result,failure_reason,notes
+601218,NA,0,NA,失败,未出现在2026-09-29连板截图,仅按收盘连板截图验证；未提供竞价与盘中数据
+000678,NA,1,收盘三板,正确,,仅按收盘连板截图验证；收盘涨幅10.05%，收盘价11.72，成交额1.11亿
