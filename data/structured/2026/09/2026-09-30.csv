@@ -10,4 +10,4 @@ date,code,name,board_count,open_pct,close_pct,turnover_rate,amount,first_limit_t
 2026-09-30,603200,上海洗霸,2,NA,10.01,NA,10.6亿,NA,NA,NA,NA,NA,NA,NA,收盘价44.74；截图可确认
 2026-09-30,603188,亚邦股份,2,NA,10.00,NA,1.72亿,NA,NA,NA,NA,NA,NA,NA,收盘价5.40；截图可确认
 2026-09-30,002866,传艺科技,2,NA,10.03,NA,5.77亿,NA,NA,NA,NA,NA,NA,NA,收盘价16.90；截图可确认
-2026-09-30,002058,威尔泰,2,NA,10.02,NA,5114万,NA,NA,NA,NA,NA,NA,NA,收盘价20.20；名称由公开证券资料核实；题材联动见同日期sector_context文件
+2026-09-30,002058,紫竹高科,2,NA,10.02,NA,5114万,NA,NA,NA,NA,NA,NA,NA,收盘价20.20；2026-10-11按用户原始截图更正名称（原误用外部代码映射）；题材联动见同日期sector_context文件

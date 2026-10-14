@@ -60,7 +60,11 @@ def main() -> None:
         ]
     ranked = [row for row in candidates if row.get("analysis_rank", "").strip().isdigit()]
     if ranked:
-        candidates.sort(key=lambda row: int(row.get("analysis_rank") or 9999))
+        candidates.sort(
+            key=lambda row: int(row["analysis_rank"])
+            if row.get("analysis_rank", "").strip().isdigit()
+            else 9999
+        )
     results: dict[str, dict[str, str]] = {}
     if args.results:
         if not args.results.exists():
