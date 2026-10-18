@@ -1,0 +1,3 @@
+code,next_open_pct,is_third_board,intraday_performance,validation_result,failure_reason,notes
+601811,NA,1,NA,首位条件观察晋级得到验证,NA,用户2026-10-16收盘截图显示3板；竞价与盘中条件未验证
+605189,NA,0,NA,未晋级；具体失败机制待核验,NA,用户2026-10-16截图按连续数降序的二板及以上区域未见该股；仅按榜单口径验证
